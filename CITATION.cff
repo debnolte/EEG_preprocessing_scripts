@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schmidt"
+  given-names: "Vincent"
+- family-names: "Nolte"
+  given-names: "Debora"
+title: "EEG_preprocessing_scripts"
+date-released: 2024-05-27 
+url: "https://github.com/debnolte/EEG_preprocessing_scripts"
